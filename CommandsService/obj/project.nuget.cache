@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OVEzROE4e4Hgp2WI4H099ezEyMLxogMDSck0M8xWwBbrkI5tpCrrB8AY9dnnq6hoYtJ9YgseGQd1M92rYq42nA==",
+  "dgSpecHash": "yG+3YqxjQ43wQBDX5hEr/GbZCoHw7LUbZVcyFASoitOURKGykQOOvPKNCZ8gftH+DOx8xErJ+OWImRwXpS2hGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\binkunduz\\desktop\\CommandsService\\CommandsService.csproj",
+  "projectFilePath": "C:\\Users\\binkunduz\\Desktop\\MicroserviceProjectWith Kubernetes\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\binkunduz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\binkunduz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

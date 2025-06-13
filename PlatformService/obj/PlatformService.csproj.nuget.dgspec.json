@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\binkunduz\\desktop\\PlatformService\\PlatformService.csproj": {}
+    "C:\\Users\\binkunduz\\Desktop\\MicroserviceProjectWith Kubernetes\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\binkunduz\\desktop\\PlatformService\\PlatformService.csproj": {
+    "C:\\Users\\binkunduz\\Desktop\\MicroserviceProjectWith Kubernetes\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\binkunduz\\desktop\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "C:\\Users\\binkunduz\\Desktop\\MicroserviceProjectWith Kubernetes\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "C:\\Users\\binkunduz\\desktop\\PlatformService\\PlatformService.csproj",
+        "projectPath": "C:\\Users\\binkunduz\\Desktop\\MicroserviceProjectWith Kubernetes\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\binkunduz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\binkunduz\\desktop\\PlatformService\\obj\\",
+        "outputPath": "C:\\Users\\binkunduz\\Desktop\\MicroserviceProjectWith Kubernetes\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\binkunduz\\AppData\\Roaming\\NuGet\\NuGet.Config"

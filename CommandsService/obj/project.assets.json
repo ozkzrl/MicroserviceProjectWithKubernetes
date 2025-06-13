@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\binkunduz\\desktop\\CommandsService\\CommandsService.csproj",
+      "projectUniqueName": "C:\\Users\\binkunduz\\Desktop\\MicroserviceProjectWith Kubernetes\\CommandsService\\CommandsService.csproj",
       "projectName": "CommandsService",
-      "projectPath": "C:\\Users\\binkunduz\\desktop\\CommandsService\\CommandsService.csproj",
+      "projectPath": "C:\\Users\\binkunduz\\Desktop\\MicroserviceProjectWith Kubernetes\\CommandsService\\CommandsService.csproj",
       "packagesPath": "C:\\Users\\binkunduz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\binkunduz\\desktop\\CommandsService\\obj\\",
+      "outputPath": "C:\\Users\\binkunduz\\Desktop\\MicroserviceProjectWith Kubernetes\\CommandsService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\binkunduz\\AppData\\Roaming\\NuGet\\NuGet.Config"

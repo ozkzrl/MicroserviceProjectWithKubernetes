@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O3LQ3LVVCooSln0JSio4EatFa8MN3hsb5z6BWBvmjPav/3PvVpHk0Qjcg0O7XGKYkz3Nb0iFmU+YtJtSLAAmnA==",
+  "dgSpecHash": "KER4K2tauZZT8leNoQ4lq282N3/qEjIbE06vaNBYhbx7qFBqQa7r4ZehpIwVpTHdiKRhj7GXu4l0J2Ow7nh2Qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\binkunduz\\desktop\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "C:\\Users\\binkunduz\\Desktop\\MicroserviceProjectWith Kubernetes\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\binkunduz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\binkunduz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
