@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\binkunduz\\Desktop\\MicroserviceProjectWith Kubernetes\\CommandsService\\CommandsService.csproj": {}
+    "C:\\Users\\binkunduz\\Desktop\\S04E03---.NET-Microservices-Course--main\\CommandsService\\CommandsService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\binkunduz\\Desktop\\MicroserviceProjectWith Kubernetes\\CommandsService\\CommandsService.csproj": {
+    "C:\\Users\\binkunduz\\Desktop\\S04E03---.NET-Microservices-Course--main\\CommandsService\\CommandsService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\binkunduz\\Desktop\\MicroserviceProjectWith Kubernetes\\CommandsService\\CommandsService.csproj",
+        "projectUniqueName": "C:\\Users\\binkunduz\\Desktop\\S04E03---.NET-Microservices-Course--main\\CommandsService\\CommandsService.csproj",
         "projectName": "CommandsService",
-        "projectPath": "C:\\Users\\binkunduz\\Desktop\\MicroserviceProjectWith Kubernetes\\CommandsService\\CommandsService.csproj",
+        "projectPath": "C:\\Users\\binkunduz\\Desktop\\S04E03---.NET-Microservices-Course--main\\CommandsService\\CommandsService.csproj",
         "packagesPath": "C:\\Users\\binkunduz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\binkunduz\\Desktop\\MicroserviceProjectWith Kubernetes\\CommandsService\\obj\\",
+        "outputPath": "C:\\Users\\binkunduz\\Desktop\\S04E03---.NET-Microservices-Course--main\\CommandsService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\binkunduz\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -35,12 +35,48 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.17.3, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.38.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.39.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.5.0, )"
+              "version": "[5.6.3, )"
             }
           },
           "imports": [
@@ -54,6 +90,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
